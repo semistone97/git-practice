@@ -1,5 +1,6 @@
-새 파일 추가
+git add <filemaname> --> staging
 
-add
+git commit -m adajsdljsalkdjlasjdlajdl(아무거나 쓰고
 
-commit(새 파일 추가))
+그냥 아무거나 ㅆ근 ㄴ얼ㄴ이러ㅓㅣㄴㅇㄹ)
+asd
